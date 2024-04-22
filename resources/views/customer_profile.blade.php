@@ -36,7 +36,7 @@
     <body>
 
                       <!-- ======= Top Bar ======= -->
-                      <section id="topbar" class="d-flex align-items-center">
+    <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">alhusnaintradersltd@gmail.com</a>
